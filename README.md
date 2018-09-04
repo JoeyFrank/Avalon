@@ -73,7 +73,7 @@ There is a UML diagram and SQL statements for a potential database that can stor
 - Nathan Schlechte
 - Alex Brooks
 
-# Screen Shots
+# Screenshots
 
 <div width="100%">
     <img src="ScreenShots/IMG_0418.png" width="33%">
