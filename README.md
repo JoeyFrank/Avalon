@@ -75,12 +75,16 @@ There is a UML diagram and SQL statements for a potential database that can stor
 
 # Screen Shots
 
-<img src="ScreenShots/IMG_0418.png" width="33%">
-<img src="ScreenShots/IMG_0419.png" width="33%">
-<img src="ScreenShots/IMG_0420.png" width="33%">
-<img src="ScreenShots/IMG_0421.png" width="33%">
-<img src="ScreenShots/IMG_0423.png" width="33%">
-<img src="ScreenShots/IMG_0424.png" width="33%">
+<div width="100%">
+    <img src="ScreenShots/IMG_0418.png" width="33%">
+    <img src="ScreenShots/IMG_0419.png" width="33%">
+    <img src="ScreenShots/IMG_0420.png" width="33%">
+</div>
+<div width="100%">
+    <img src="ScreenShots/IMG_0421.png" width="33%">
+    <img src="ScreenShots/IMG_0423.png" width="33%">
+    <img src="ScreenShots/IMG_0424.png" width="33%">
+</div>
 <img src="ScreenShots/IMG_0425.png" width="33%">
 <!-- 
 ![](https://github.com/insd45/4320-Final-Project/blob/master/ScreenShots/IMG_0418.png)
